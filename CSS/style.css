@@ -9,7 +9,9 @@
     border: 1px solid red;
     
 }
- 
+ body{
+    
+ }
 h1{
     color: purple;
     margin: 40px 0px;
@@ -24,15 +26,18 @@ h1{
 .card{
     float: left;
     width: calc(100% / 3);
+    background-color: black;
 }
 .card img{
     height: 109px;
     float: left;
+    margin: 0px 10px 0px 0px;
 }
 img{
     height: 120px;
 }
 .profilo{
+    color: white;
     
 }
 .clearfix::after{

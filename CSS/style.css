@@ -7,16 +7,21 @@
 }
 
 h1{
-    color: purple;
+    color: rgb(229, 18, 229);
+    margin: 40px 0px ;
+    text-align: center;
+    
+    
+}
+p{
     margin: 40px 0px;
     text-align: center;
 }
-p{
-    margin: 30px 0px;
-}
+
 .container{
     max-width: 1170px;
     margin: 0 auto;
+    
 }
 
 .card{
@@ -42,6 +47,9 @@ span{
     color: white;
     margin-bottom: 10px;
     
+}
+a{
+    color: rgb(1, 204, 245);
 }
 .clearfix::after{
       content: '';

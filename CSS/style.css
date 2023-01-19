@@ -1,0 +1,31 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.debag .card{
+    height: 200px;
+    border: 1px solid red;
+}
+body{
+    font-family: ;
+
+}
+h1{
+    color: purple;
+    margin: 40px 0px;
+    text-align: center;
+}
+
+.container{
+    max-width: 1178px;
+    margin: 0 auto;
+}
+
+.clearfix::after{
+      content: '';
+      clear: both;
+      display: table;
+}

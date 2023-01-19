@@ -6,13 +6,10 @@
 
 }
 .debag .card{
-    height: 200px;
     border: 1px solid red;
+    
 }
-body{
-    font-family: ;
-
-}
+ 
 h1{
     color: purple;
     margin: 40px 0px;
@@ -24,6 +21,20 @@ h1{
     margin: 0 auto;
 }
 
+.card{
+    float: left;
+    width: calc(100% / 3);
+}
+.card img{
+    height: 109px;
+    float: left;
+}
+img{
+    height: 120px;
+}
+.profilo{
+    
+}
 .clearfix::after{
       content: '';
       clear: both;

@@ -5,11 +5,14 @@
     box-sizing: border-box;
 
 }
-
+body{
+   
+}
 h1{
-    color: rgb(229, 18, 229);
+    color: rgb(219, 57, 114);
     margin: 40px 0px ;
-    text-align: center;
+    text-align: center;font-family: 'Fredoka One', cursive;
+
     
     
 }
@@ -43,10 +46,14 @@ p{
 img{
     height: 120px;
 }
-span{
+h4, h5{
     color: white;
     margin-bottom: 10px;
     
+    
+}
+.profilo{
+    margin-block: 10px;
 }
 a{
     color: rgb(1, 204, 245);
